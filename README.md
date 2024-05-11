@@ -35,10 +35,6 @@ The analysis results are presented in an interactive Power BI dashboard, which p
 ![Individual_Entertainer_Details](https://github.com/Bijoy-910/Entertainer_Data_Analysis/assets/52617079/05535e5e-2980-4743-b805-902fc563cc9d)
 
 
-## Getting Started
-To get started with this project, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Open the Jupyter Notebook `Entertainment_Personalities_Analysis.ipynb` to view the data analysis process.
-4. Run the notebook cells to preprocess the data, perform analysis, and visualize the results.
-5. Explore the Power BI dashboard `Entertainment_Personalities_Dashboard.pbix` for interactive visualizations and insights.
+## Contributors
+Bijoy kumar gupta- Project Lead & Developer
+Raghwendra kumar ranjeet - Team Member
